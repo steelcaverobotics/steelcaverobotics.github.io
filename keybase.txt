@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/joshgadeken
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://steelcaverobotics.com
+  * I am joshgadeken (https://keybase.io/joshgadeken) on keybase.
+  * I have a public key with fingerprint F791 1F18 9266 51E3 2D39  15A8 9A31 92CC D42A ED3E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101f613119214c43b2f8d89f080fd296cf7701472dfed0c80c6eafdbcaa0ee3f18b0a",
+            "fingerprint": "f7911f18926651e32d3915a89a3192ccd42aed3e",
+            "host": "keybase.io",
+            "key_id": "9a3192ccd42aed3e",
+            "kid": "0101f613119214c43b2f8d89f080fd296cf7701472dfed0c80c6eafdbcaa0ee3f18b0a",
+            "uid": "6b3e8ba19e5720394f0e41df58529719",
+            "username": "joshgadeken"
+        },
+        "service": {
+            "hostname": "steelcaverobotics.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1484954284,
+    "expire_in": 157680000,
+    "prev": "d1c69096761ef716328d444e9c9f01cca66dcdc3b8b3af3909ea91a9bf03fa94",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owJ4nK2Sa0wUVxTHdxdsYPugPIog8nAooQayzp2ZnccmKCZqViOpBUFELJ3HnWVY
+2Fl2lgXKoylEu7ZCULG2UCu1lVAabRElQqDQWi3SUh7GVowVyqMoqQWhRmvSxwzR
+b/3Y++XmnvM/v/M/J7fuWR+dUT+WXn5vc+AbiP67O5wus6rhizKEk4VSxFKG2OHy
+BfMFqLhz7JKAWBAUoEAkAQ4AgwGCJ3AOE2mBZkSURkUBY0hepCgUEBQmiFBAeRrl
+SciKAsezLAohLgKaQ1kkERElhw26nC7J4VaxIsUAoOYYjCTNAOKYgDPAzNIMi6uN
+eF4gMBYKOFQLc2VFq1DNcawCTZKsxtRHzrK9/9D/z76LlnEkh0OaYwEDzRSG4gwh
+opAAgmimzRhDAUYTKtDlYAugqs6TlVwbK0A7dCAViYia8Eg81HarDfNYpLghzOdZ
+D3TJnOyWeMXEywUqx+mS3TIv56uSXLfbadEI7lKnVlIMuZzHsBxOcgjqStUClaBI
+sgOxAFXJuyWNDgiaYMwERhOJCCxxSi6YI2kKM0XSqHq0NpD3qEwB8CSDMiRFAihS
+gMQxWiAIAjK8uivA8yxJCrzA4xzN4ayIq1LIMoBlOBHFRZYhEG2+QoeMWCjVJ2vT
+JpNsDtZd5IJIhfGAAffV6Y26yNA1vleuLH27s/KHP4J9d3c/+YYrDNof1Bn9n38S
+6a0L+GfX9PntxN3DbUmXbrIv7vF4lBq8tKY44lSYd3/00Wu7u7LvTkVlRJvCs9Jc
+1r2GOe/Q8MtVP1vw3r7NJe+V/Xay4YXCzFs9ScEnw8wfwa/mI84PpE6Fd/UUHs/w
+K2+yvpa2LkR5ejT1k5lH5x5GdYWuH51nB14iJ36sW3mkxTC+s7KTP8Rt2XcmMWyb
+nUpSfi81zhkTXP2TrRYbNbJ1sdPZOL5upMf0TcOD1QN+w+l7Q5Omwntj4NmDbUEx
+z11Lj2yfOsZ0jseFG7qqT5OTKXPVdOzUpn2rIk/7e+o23Lcl5zZP3Cj68GHjyksV
+VbOL4weqbzzQX8iNsmQEZB2vNU/Qz5hA8lUmbrAx06/2p0nDRWtw9eWa+uRuB5Im
+fx573XWn/mBNgPQ3hR4eNu9f31pyVmoOOnKgMjWrIWQsLGVj3uXJovCmlCg7LHhn
+dWDPifhpv1ebE6KRDsTuO/bp2zqrt3vtoYDrC5vu//ll9scZs8OPkje8hfj/Ost7
+Wg1PSVW34+P5Le3VHdkXYyZD+ztaTliiveUNH1hCTe9+9j7y146W+dijacNL0yGL
+v0SfwouN6KqItWn1gR0+3u/j8P6gkmMTPkOOSoe+7/XR+tvWvtltBXuwwZlXdvnP
+XBjZ4U2wNp0p1enP3bw6U/umLmJoYWvbrb57eWCJaVcGFxK+3r4xckWN/7/bbsZm
+=pzAW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/joshgadeken
+
+==================================================================
